@@ -2,4 +2,10 @@
 
 <html>
   <head>
-    <link rel="
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Unnamed Game</h1>
+    <h3>The game may not be fun, because it's in Prerelease Alpha 1.0.0</h1>
+
+</html>
