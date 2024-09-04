@@ -6,4 +6,10 @@
   </head>
   <body>
     <h1>Select your difficulty!</h1>
-    <
+    <a href="normal.html>
+      <button>Normal</button>
+    </a>
+    <p>Insane Mode is coming in a future release!</p>
+    <p>Obligatory Nightmare is coming in a future release!</p>
+  </body>
+</html>
